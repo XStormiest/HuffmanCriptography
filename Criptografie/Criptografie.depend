@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1556291099 source:e:\programare\laboratoarepoo\criptografie\main.cpp
+	<iostream>
+	<cstdlib>
+	<string.h>
+	<map>
+	<fstream>
+	"Huffman.h"
+
+1556285754 e:\programare\laboratoarepoo\criptografie\huffman.h
+	<iostream>
+	<string.h>
+
